@@ -1,7 +1,7 @@
 # 독서 습관 형성 서비스 :turtle: 꾸북 :turtle:
 <p align="center"><img src="README.assets/kkubooLogo.png"></p>
 
-
+ 
 # 목차
 
 [프로젝트 소개](#프로젝트-소개)
